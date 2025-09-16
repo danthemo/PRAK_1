@@ -8,8 +8,10 @@ HelloAPI
 ## Требования
 
 - **Go**: версия 1.22.2
+
   ![](screenshots/goversion.png)
 - **Git**: 2.43.0 для загрузки зависимостей
+
   ![](screenshots/gitversion.png)
 
 ## Запуск и сборка
